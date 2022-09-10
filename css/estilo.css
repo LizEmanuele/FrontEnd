@@ -1,0 +1,31 @@
+h2{
+    color: rgb(155, 9, 87);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#title{
+    color: rgb(136, 10, 52) 
+}
+
+body{
+    background: radial-gradient(rgb(252, 14, 153), rgb(61, 205, 241));
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+
+}
+
+.cuerpo{
+    
+
+}
+
+.titulo{
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid rgb(126, 1, 63);
+    background-color: rgb(243, 192, 216);
+    border-radius: 15px;
+}
